@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|c:\\users\\mr13\\documents\\python_ai_apllications_fsde_oct_24_6_az\\ai 11\\apis\\ai 11. price prediction web api\\ai 11. price prediction web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|solutionrelative:ai 11. price prediction web api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|c:\\users\\mr13\\documents\\python_ai_apllications_fsde_oct_24_6_az\\ai 11\\apis\\ai 11. price prediction web api\\ai 11. price prediction web api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|solutionrelative:ai 11. price prediction web api\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|c:\\users\\mr13\\documents\\python_ai_apllications_fsde_oct_24_6_az\\ai 11\\apis\\ai 11. price prediction web api\\ai 11. price prediction web api\\dtos\\predictin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC862A70-DA52-4EDC-88A8-575B36B07C22}|AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API.csproj|solutionrelative:ai 11. price prediction web api\\dtos\\predictin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PredictIn.cs",
+              "DocumentMoniker": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\DTOs\\PredictIn.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediction Web API\\DTOs\\PredictIn.cs",
+              "ToolTip": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\DTOs\\PredictIn.cs",
+              "RelativeToolTip": "AI 11. Price Prediction Web API\\DTOs\\PredictIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T10:31:32.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediction Web API\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\Controllers\\AIController.cs",
+              "RelativeToolTip": "AI 11. Price Prediction Web API\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T10:31:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\Program.cs",
+              "RelativeDocumentMoniker": "AI 11. Price Prediction Web API\\Program.cs",
+              "ToolTip": "C:\\Users\\mr13\\Documents\\Python_AI_Apllications_FSDE_Oct_24_6_az\\AI 11\\APIs\\AI 11. Price Prediction Web API\\AI 11. Price Prediction Web API\\Program.cs",
+              "RelativeToolTip": "AI 11. Price Prediction Web API\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwC8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T10:31:32.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
